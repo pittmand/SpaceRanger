@@ -1,0 +1,856 @@
+﻿Log file open, 08/04/18 12:08:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SpaceRanger
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1658486240) SRandInit(1658486240).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.408633
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  4.263s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Jeremy-Desktop (192.168.0.18:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Program Files/Unreal Engine/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.04-17.08.55:529][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.04-17.08.55:529][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.04-17.08.55:650][  0]LogInit: Computer: JEREMY-DESKTOP
+[2018.08.04-17.08.55:650][  0]LogInit: User: Jerem
+[2018.08.04-17.08.55:650][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.04-17.08.55:650][  0]LogInit: High frequency timer resolution =4.101564 MHz
+[2018.08.04-17.08.55:650][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2018.08.04-17.08.55:650][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.04-17.08.55:650][  0]LogMemory: Process Physical Memory: 274.32 MB used, 274.32 MB peak
+[2018.08.04-17.08.55:650][  0]LogMemory: Process Virtual Memory: 264.73 MB used, 264.73 MB peak
+[2018.08.04-17.08.55:650][  0]LogMemory: Physical Memory: 9491.25 MB used,  23235.50 MB free, 32726.74 MB total
+[2018.08.04-17.08.55:650][  0]LogMemory: Virtual Memory: 4794.11 MB used,  23235.50 MB free, 134217728.00 MB total
+[2018.08.04-17.08.56:441][  0]LogInit: Using OS detected language (en-US).
+[2018.08.04-17.08.56:441][  0]LogInit: Using OS detected locale (en-US).
+[2018.08.04-17.08.56:712][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.08.04-17.08.57:479][  0]LogStreaming: Display: Took  0.994s to EndInitTextLocalization.
+[2018.08.04-17.08.57:501][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.04-17.08.59:169][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.04-17.08.59:169][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.04-17.09.01:664][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.04-17.09.01:728][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.08.04-17.09.01:728][  0]LogD3D11RHI:       8096/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2018.08.04-17.09.01:733][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.04-17.09.01:733][  0]LogD3D11RHI:       0/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.04-17.09.01:733][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.04-17.09.01:740][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.04-17.09.01:741][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.04-17.09.01:741][  0]LogWindows: EnumDisplayDevices:
+[2018.08.04-17.09.01:741][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.08.04-17.09.01:741][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.08.04-17.09.01:741][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.08.04-17.09.01:741][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.08.04-17.09.01:741][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.08.04-17.09.01:741][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.08.04-17.09.01:741][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.08.04-17.09.01:741][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.08.04-17.09.01:742][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
+[2018.08.04-17.09.01:771][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.08.04-17.09.01:771][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.08.04-17.09.01:771][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.04-17.09.02:071][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.08.04-17.09.02:217][  0]LogShaderCompilers: Guid format shader working directory is 10 characters bigger than the processId version (../../../../../../GitHub/SpaceRanger/Intermediate/Shaders/WorkingDirectory/9432/).
+[2018.08.04-17.09.02:222][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jerem/AppData/Local/Temp/UnrealShaderWorkingDir/1C169DA142E691A312AE6096CCFF80E7/'.
+[2018.08.04-17.09.03:852][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.04-17.09.03:863][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.04-17.09.03:874][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.04-17.09.03:884][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.04-17.09.03:942][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.04-17.09.03:952][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.04-17.09.03:962][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.04-17.09.03:973][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.04-17.09.03:978][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.04-17.09.03:988][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.04-17.09.03:997][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.04-17.09.04:007][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.04-17.09.04:016][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.08.04-17.09.04:026][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.04-17.09.04:035][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.04-17.09.04:055][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.04-17.09.04:055][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.04-17.09.04:110][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.04-17.09.04:111][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.04-17.09.04:301][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.04-17.09.04:323][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.04-17.09.04:340][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.04-17.09.04:354][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.04-17.09.04:363][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.04-17.09.04:402][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.04-17.09.04:402][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.04-17.09.05:408][  0]LogXGEController: Cleaning working directory: C:/Users/Jerem/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.08.04-17.09.05:408][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.04-17.09.05:432][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.04-17.09.05:432][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.04-17.09.08:465][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.04-17.09.09:066][  0]LogDerivedDataCache: Loaded boot cache 0.60s 74MB C:/Users/Jerem/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.04-17.09.09:066][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jerem/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.08.04-17.09.09:066][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../GitHub/SpaceRanger/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.04-17.09.09:066][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.04-17.09.09:067][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../GitHub/SpaceRanger/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.04-17.09.09:067][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.04-17.09.09:298][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.04-17.09.09:312][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jerem/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.04-17.09.09:312][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.04-17.09.09:312][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.04-17.09.09:362][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.04-17.09.09:443][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.04-17.09.09:568][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.04-17.09.09:569][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.04-17.09.14:162][  0]LogAssetRegistry: FAssetRegistry took 0.0358 seconds to start up
+[2018.08.04-17.09.22:622][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.04-17.09.27:603][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.04-17.09.27:660][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.04-17.09.27:675][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.04-17.09.27:682][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.04-17.09.27:682][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.04-17.09.27:682][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.04-17.09.28:666][  0]LogNetVersion: SpaceRanger , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 149975524)
+[2018.08.04-17.09.40:825][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.186064 seconds
+[2018.08.04-17.09.40:849][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.08.04-17.09.40:849][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.08.04-17.09.40:849][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.04-17.10.34:905][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.04-17.10.34:936][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.04-17.10.35:966][  0]SourceControl: Source control is disabled
+[2018.08.04-17.10.35:966][  0]SourceControl: Source control is disabled
+[2018.08.04-17.10.35:990][  0]SourceControl: Source control is disabled
+[2018.08.04-17.10.36:013][  0]SourceControl: Source control is disabled
+[2018.08.04-17.10.37:088][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.04-17.10.37:340][  0]LogOcInput: OculusInput pre-init called
+[2018.08.04-17.10.38:079][  0]LogEngine: Initializing Engine...
+[2018.08.04-17.10.38:112][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.04-17.10.38:170][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.04-17.10.38:170][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.04-17.10.38:710][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.04-17.10.38:941][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.04-17.10.38:959][  0]LogInit: FAudioDevice initialized.
+[2018.08.04-17.10.39:044][  0]LogDerivedDataCache: Saved boot cache 0.08s 74MB C:/Users/Jerem/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.04-17.10.39:078][  0]LogInit: Texture streaming: Enabled
+[2018.08.04-17.10.39:157][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.04-17.10.39:289][  0]LogInit: Transaction tracking system initialized
+[2018.08.04-17.10.39:815][  0]BlueprintLog: New page: Editor Load
+[2018.08.04-17.10.40:877][  0]LocalizationService: Localization service is disabled
+[2018.08.04-17.10.41:677][  0]LogConsoleResponse: Display: 
+[2018.08.04-17.10.44:335][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/SpaceRanger/Content/' took 0.02s
+[2018.08.04-17.10.44:335][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.04-17.10.44:335][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.04-17.10.44:335][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.04-17.10.44:335][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.04-17.10.44:335][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.04-17.10.47:211][  0]SourceControl: Source control is disabled
+[2018.08.04-17.10.47:269][  0]Cmd: MAP LOAD FILE="../../../../../../GitHub/SpaceRanger/Content/FlyingBP/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.04-17.10.47:287][  0]LightingResults: New page: Lighting Build
+[2018.08.04-17.10.47:457][  0]MapCheck: New page: Map Check
+[2018.08.04-17.10.47:457][  0]LightingResults: New page: Lighting Build
+[2018.08.04-17.10.48:441][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd7f5825c0, Size=216, Default__bullet_C Function /Game/FlyingBP/Blueprints/bullet.bullet_C:ExecuteUbergraph_bullet
+[2018.08.04-17.10.48:449][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd7f5825c0, Size=216
+[2018.08.04-17.10.48:450][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd7f5825c0, Size=216, Default__bullet_C Function /Engine/Transient.REINST_bullet_C_5:ExecuteUbergraph_bullet
+[2018.08.04-17.10.48:452][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd7f581440, Size=216, Default__bullet_C Function /Game/FlyingBP/Blueprints/bullet.bullet_C:ExecuteUbergraph_bullet
+[2018.08.04-17.10.48:543][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd1803e400, Size=864, Default__FlyingPawn_C Function /Game/FlyingBP/Blueprints/FlyingPawn.FlyingPawn_C:ExecuteUbergraph_FlyingPawn
+[2018.08.04-17.10.48:554][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd1803e400, Size=864
+[2018.08.04-17.10.48:554][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd1803e400, Size=864, Default__FlyingPawn_C Function /Engine/Transient.REINST_FlyingPawn_C_8:ExecuteUbergraph_FlyingPawn
+[2018.08.04-17.10.48:567][  0]LogBlueprint: Warning: [Compiler FlyingPawn] Input Axis Event references unknown Axis 'Thrust' for  InputAxis Thrust
+[2018.08.04-17.10.48:570][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd18177200, Size=864, Default__FlyingPawn_C Function /Game/FlyingBP/Blueprints/FlyingPawn.FlyingPawn_C:ExecuteUbergraph_FlyingPawn
+[2018.08.04-17.10.48:571][  0]LogBlueprint: Warning: [Compiler FlyingPawn] [0135.01] Compile of FlyingPawn successful, but with 1 Warning(s) [in 22 ms] (/Game/FlyingBP/Blueprints/FlyingPawn.FlyingPawn)
+[2018.08.04-17.10.48:580][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd141e4800, Size=464, Default__ship1_C Function /Game/FlyingBP/Blueprints/ship1.ship1_C:ExecuteUbergraph_ship1
+[2018.08.04-17.10.48:582][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd141e4800, Size=464
+[2018.08.04-17.10.48:582][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd141e4800, Size=464, Default__ship1_C Function /Engine/Transient.REINST_ship1_C_12:ExecuteUbergraph_ship1
+[2018.08.04-17.10.48:584][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd141e5e00, Size=464, Default__ship1_C Function /Game/FlyingBP/Blueprints/ship1.ship1_C:ExecuteUbergraph_ship1
+[2018.08.04-17.10.48:592][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd180b30a0, Size=32, Default__Level1_C Function /Game/FlyingBP/Maps/Level1.Level1_C:ExecuteUbergraph_Level1
+[2018.08.04-17.10.48:593][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd180b30a0, Size=32
+[2018.08.04-17.10.48:593][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd180b30a0, Size=32, Default__Level1_C Function /Engine/Transient.REINST_Level1_C_14:ExecuteUbergraph_Level1
+[2018.08.04-17.10.48:594][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd180b1b20, Size=32, Default__Level1_C Function /Game/FlyingBP/Maps/Level1.Level1_C:ExecuteUbergraph_Level1
+[2018.08.04-17.10.49:379][  0]LogAIModule: Creating AISystem for world Level1
+[2018.08.04-17.10.50:174][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.04-17.10.50:317][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd7f5825c0, Size=216
+[2018.08.04-17.10.50:317][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd1803e400, Size=864
+[2018.08.04-17.10.50:317][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd141e4800, Size=464
+[2018.08.04-17.10.50:317][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd180b30a0, Size=32
+[2018.08.04-17.10.50:422][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.04-17.10.50:511][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 89.303ms to complete.
+[2018.08.04-17.10.50:511][  0]LogFileHelpers: Loading map 'Level1' took 3.258
+[2018.08.04-17.10.52:385][  0]LogCollectionManager: Loaded 0 collections in 0.004678 seconds
+[2018.08.04-17.10.52:591][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/SpaceRanger/Saved/Collections/' took 0.01s
+[2018.08.04-17.10.52:591][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/SpaceRanger/Content/Developers/Jerem/Collections/' took 0.01s
+[2018.08.04-17.10.52:591][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/SpaceRanger/Content/Collections/' took 0.01s
+[2018.08.04-17.10.52:591][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.08.04-17.10.52:620][  0]LogContentBrowser: Native class hierarchy populated in 0.0250 seconds. Added 2452 classes and 558 folders.
+[2018.08.04-17.10.52:739][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.08.04-17.10.54:138][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.04-17.10.54:203][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.08.04-17.10.54:854][  0]LogSlate: Took 0.041445 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.04-17.10.54:942][  0]LogSlate: Took 0.085265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.04-17.10.55:024][  0]LogSlate: Took 0.052424 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.04-17.10.55:551][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.08.04-17.10.56:123][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.04-17.10.56:123][  0]LogLoad: (Engine Initialization) Total time: 142.56 seconds
+[2018.08.04-17.10.56:123][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.04-17.10.56:605][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.08.04-17.10.56:842][  0]LogSlate: Took 0.055658 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.04-17.10.57:046][  1]LogAssetRegistry: Asset discovery search completed in 102.9063 seconds
+[2018.08.04-17.10.57:050][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.08.04-17.10.57:050][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000074 seconds (updated 0 objects)
+[2018.08.04-17.11.04:121][315]LogSynthBenchmark: Display: FSynthBenchmark (V0.95):  requested WorkScale=5.00
+[2018.08.04-17.11.04:121][315]LogSynthBenchmark: Display: ===============
+[2018.08.04-17.11.04:121][315]LogSynthBenchmark: Display: Main Processor:
+[2018.08.04-17.11.04:278][315]LogSynthBenchmark: Display:          ... 0.015990 s/Run 'RayIntersect'
+[2018.08.04-17.11.04:278][315]LogSynthBenchmark: Display:          ... 0.015276 s/Run 'Fractal'
+[2018.08.04-17.11.04:278][315]LogSynthBenchmark: Display: 
+[2018.08.04-17.11.04:278][315]LogSynthBenchmark: Display:   CompiledTarget_x_Bits: 64
+[2018.08.04-17.11.04:278][315]LogSynthBenchmark: Display:   UE_BUILD_SHIPPING: 0
+[2018.08.04-17.11.04:278][315]LogSynthBenchmark: Display:   UE_BUILD_TEST: 0
+[2018.08.04-17.11.04:278][315]LogSynthBenchmark: Display:   UE_BUILD_DEBUG: 0
+[2018.08.04-17.11.04:278][315]LogSynthBenchmark: Display:   TotalPhysicalGBRam: 32
+[2018.08.04-17.11.04:278][315]LogSynthBenchmark: Display:   NumberOfCores (physical): 4
+[2018.08.04-17.11.04:278][315]LogSynthBenchmark: Display:   NumberOfCores (logical): 8
+[2018.08.04-17.11.04:278][315]LogSynthBenchmark: Display:   CPU Perf Index 0: 160.2 (weight 1.00)
+[2018.08.04-17.11.04:278][315]LogSynthBenchmark: Display:   CPU Perf Index 1: 187.2 (weight 1.50)
+[2018.08.04-17.11.04:278][315]LogSynthBenchmark: Display:  
+[2018.08.04-17.11.04:278][315]LogSynthBenchmark: Display: Graphics:
+[2018.08.04-17.11.04:278][315]LogSynthBenchmark: Display:   Adapter Name: 'NVIDIA GeForce GTX 1070'
+[2018.08.04-17.11.04:278][315]LogSynthBenchmark: Display:   (On Optimus the name might be wrong, memory should be ok)
+[2018.08.04-17.11.04:278][315]LogSynthBenchmark: Display:   Vendor Id: 0x10DE
+[2018.08.04-17.11.04:278][315]LogSynthBenchmark: Display:   Device Id: 0x1B81
+[2018.08.04-17.11.04:278][315]LogSynthBenchmark: Display:   Device Revision: 0xA1
+[2018.08.04-17.11.04:278][315]LogSynthBenchmark: Display:   GPU Memory: 8096/0/16364 MB
+[2018.08.04-17.11.04:317][315]LogSynthBenchmark: Display:   GPU first test: 0.01s
+[2018.08.04-17.11.04:317][315]LogSynthBenchmark: Display:          ... 7.638 s/GigaPix, Confidence=100% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2018.08.04-17.11.04:317][315]LogSynthBenchmark: Display:          ... 6.774 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be very inaccurate)
+[2018.08.04-17.11.04:317][315]LogSynthBenchmark: Display:          ... 5.515 s/GigaPix, Confidence=89% 'DepTexHeavy' (likely to be very inaccurate)
+[2018.08.04-17.11.04:317][315]LogSynthBenchmark: Display:          ... 24.751 s/GigaPix, Confidence=100% 'FillOnly' (likely to be very inaccurate)
+[2018.08.04-17.11.04:317][315]LogSynthBenchmark: Display:          ... 1.052 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be very inaccurate)
+[2018.08.04-17.11.04:317][315]LogSynthBenchmark: Display:          ... 25.760 s/GigaVert, Confidence=40% 'VertThroughPut1' (likely to be very inaccurate)
+[2018.08.04-17.11.04:317][315]LogSynthBenchmark: Display:          ... 5.527 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be very inaccurate)
+[2018.08.04-17.11.04:429][315]LogSynthBenchmark: Display:   GPU second test: 0.09s
+[2018.08.04-17.11.04:429][315]LogSynthBenchmark: Display:          ... 10.129 s/GigaPix, Confidence=100% 'ALUHeavyNoise' (likely to be inaccurate)
+[2018.08.04-17.11.04:429][315]LogSynthBenchmark: Display:          ... 8.339 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be inaccurate)
+[2018.08.04-17.11.04:429][315]LogSynthBenchmark: Display:          ... 7.789 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be inaccurate)
+[2018.08.04-17.11.04:429][315]LogSynthBenchmark: Display:          ... 45.754 s/GigaPix, Confidence=100% 'FillOnly' (likely to be inaccurate)
+[2018.08.04-17.11.04:429][315]LogSynthBenchmark: Display:          ... 1.123 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be inaccurate)
+[2018.08.04-17.11.04:429][315]LogSynthBenchmark: Display:          ... 6.911 s/GigaVert, Confidence=89% 'VertThroughPut1' (likely to be inaccurate)
+[2018.08.04-17.11.04:429][315]LogSynthBenchmark: Display:          ... 4.470 s/GigaVert, Confidence=89% 'VertThroughPut2' (likely to be inaccurate)
+[2018.08.04-17.11.05:131][315]LogSynthBenchmark: Display:   GPU third test: 0.68s
+[2018.08.04-17.11.05:132][315]LogSynthBenchmark: Display:          ... 16.066 s/GigaPix, Confidence=100% 'ALUHeavyNoise'
+[2018.08.04-17.11.05:132][315]LogSynthBenchmark: Display:          ... 12.881 s/GigaPix, Confidence=100% 'TexHeavy'
+[2018.08.04-17.11.05:132][315]LogSynthBenchmark: Display:          ... 11.921 s/GigaPix, Confidence=100% 'DepTexHeavy'
+[2018.08.04-17.11.05:132][315]LogSynthBenchmark: Display:          ... 75.757 s/GigaPix, Confidence=100% 'FillOnly'
+[2018.08.04-17.11.05:132][315]LogSynthBenchmark: Display:          ... 1.621 s/GigaPix, Confidence=100% 'Bandwidth'
+[2018.08.04-17.11.05:132][315]LogSynthBenchmark: Display:          ... 5.242 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2018.08.04-17.11.05:132][315]LogSynthBenchmark: Display:          ... 6.327 s/GigaVert, Confidence=100% 'VertThroughPut2'
+[2018.08.04-17.11.05:132][315]LogSynthBenchmark: Display:   GPU Final Results:
+[2018.08.04-17.11.05:132][315]LogSynthBenchmark: Display:          ... 16.066 s/GigaPix, Confidence=100% 'ALUHeavyNoise'
+[2018.08.04-17.11.05:132][315]LogSynthBenchmark: Display:          ... 12.881 s/GigaPix, Confidence=100% 'TexHeavy'
+[2018.08.04-17.11.05:132][315]LogSynthBenchmark: Display:          ... 11.921 s/GigaPix, Confidence=100% 'DepTexHeavy'
+[2018.08.04-17.11.05:132][315]LogSynthBenchmark: Display:          ... 75.757 s/GigaPix, Confidence=100% 'FillOnly'
+[2018.08.04-17.11.05:132][315]LogSynthBenchmark: Display:          ... 1.621 s/GigaPix, Confidence=100% 'Bandwidth'
+[2018.08.04-17.11.05:132][315]LogSynthBenchmark: Display:          ... 5.242 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2018.08.04-17.11.05:132][315]LogSynthBenchmark: Display:          ... 6.327 s/GigaVert, Confidence=100% 'VertThroughPut2'
+[2018.08.04-17.11.05:132][315]LogSynthBenchmark: Display: 
+[2018.08.04-17.11.05:132][315]LogSynthBenchmark: Display:   GPU Perf Index 0: 349.2 (weight 1.00)
+[2018.08.04-17.11.05:132][315]LogSynthBenchmark: Display:   GPU Perf Index 1: 173.0 (weight 0.10)
+[2018.08.04-17.11.05:132][315]LogSynthBenchmark: Display:   GPU Perf Index 2: 309.9 (weight 0.10)
+[2018.08.04-17.11.05:132][315]LogSynthBenchmark: Display:   GPU Perf Index 3: 297.5 (weight 3.00)
+[2018.08.04-17.11.05:132][315]LogSynthBenchmark: Display:   GPU Perf Index 4: 151.2 (weight 1.00)
+[2018.08.04-17.11.05:132][315]LogSynthBenchmark: Display:   GPU Perf Index 5: 341.1 (weight 0.00)
+[2018.08.04-17.11.05:132][315]LogSynthBenchmark: Display:   GPU Perf Index 6: 358.1 (weight 0.00)
+[2018.08.04-17.11.05:132][315]LogSynthBenchmark: Display:   CPUIndex: 176.4
+[2018.08.04-17.11.05:132][315]LogSynthBenchmark: Display:   GPUIndex: 277.2
+[2018.08.04-17.11.05:132][315]LogSynthBenchmark: Display: 
+[2018.08.04-17.11.05:132][315]LogSynthBenchmark: Display:          ... Total Time: 1.010963 sec
+[2018.08.04-17.11.06:762][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.04-17.11.08:479][689]LogSlate: Took 0.000388 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.04-17.11.08:567][689]Cmd: MAP LOAD FILE="../../../../../../GitHub/SpaceRanger/Content/FlyingBP/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.04-17.11.08:568][689]LightingResults: New page: Lighting Build
+[2018.08.04-17.11.08:568][689]LoadErrors: New page: Loading map: Level1.umap
+[2018.08.04-17.11.08:589][689]MapCheck: New page: Map Check
+[2018.08.04-17.11.08:589][689]LightingResults: New page: Lighting Build
+[2018.08.04-17.11.08:632][689]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd180b1b20, Size=32
+[2018.08.04-17.11.08:647][689]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd42b19280, Size=32, Default__Level1_C Function /Game/FlyingBP/Maps/Level1.Level1_C:ExecuteUbergraph_Level1
+[2018.08.04-17.11.08:649][689]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd42b19280, Size=32
+[2018.08.04-17.11.08:649][689]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd42b19280, Size=32, Default__Level1_C Function /Engine/Transient.REINST_Level1_C_16:ExecuteUbergraph_Level1
+[2018.08.04-17.11.08:650][689]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd42b188e0, Size=32, Default__Level1_C Function /Game/FlyingBP/Maps/Level1.Level1_C:ExecuteUbergraph_Level1
+[2018.08.04-17.11.08:746][689]LogAIModule: Creating AISystem for world Level1
+[2018.08.04-17.11.08:781][689]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.04-17.11.08:814][689]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd42b19280, Size=32
+[2018.08.04-17.11.08:843][689]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.04-17.11.08:916][689]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 73.312ms to complete.
+[2018.08.04-17.11.08:919][689]LogFileHelpers: Loading map 'Level1' took 0.387
+[2018.08.04-17.11.13:923][286]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.04-17.11.13:985][286]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/FlyingBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.08.04-17.11.13:985][286]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.04-17.11.14:003][286]PIE: New page: PIE session: Level1 (Aug 4, 2018, 7:11:13 AM)
+[2018.08.04-17.11.14:029][286]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_Level1
+[2018.08.04-17.11.14:084][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055049s)
+[2018.08.04-17.11.14:085][286]LogAIModule: Creating AISystem for world Level1
+[2018.08.04-17.11.14:085][286]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2018.08.04-17.11.14:085][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/Level1.Level1 to /Game/FlyingBP/Maps/UEDPIE_0_Level1.Level1 (0.081591s)
+[2018.08.04-17.11.14:139][286]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.04-17.11.14:150][286]LogInit: FAudioDevice initialized.
+[2018.08.04-17.11.14:195][286]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.08.04-17.11.14:213][286]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.08.04-12.11.14
+[2018.08.04-17.11.14:215][286]LogWorld: Bringing up level for play took: 0.003685
+[2018.08.04-17.11.14:259][286]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2018.08.04-17.11.14:299][286]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_Level1 -0.39
+[2018.08.04-17.11.14:300][286]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/FlyingBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.08.04-17.11.59:281][647]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/FlyingBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.08.04-17.11.59:339][647]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/FlyingBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.08.04-17.12.03:223][101]LogEditorViewport: Clicking on Actor (LMB): ship1_C (ship5)
+[2018.08.04-17.12.04:176][126]LogEditorViewport: Clicking on Actor (LMB): ship1_C (ship5)
+[2018.08.04-17.12.47:367][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.04-17.12.53:719][961]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 116 classes and 0 folders.
+[2018.08.04-17.12.54:251][961]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd26728b58, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.08.04-17.12.54:251][961]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd26728b50, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.08.04-17.12.55:311][961]LogSlate: Took 0.036720 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.04-17.12.55:827][962]LogSlate: Took 0.029611 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.04-17.16.49:003][190]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2018.08.04-17.30.07:329][ 99]BlueprintLog: New page: Compile ship1
+[2018.08.04-17.30.07:370][ 99]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd141e5e00, Size=464
+[2018.08.04-17.30.07:370][ 99]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd7539a600, Size=464, Default__ship1_C Function /Engine/Transient.REINST_ship1_C_34:ExecuteUbergraph_ship1
+[2018.08.04-17.30.07:371][ 99]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd17f9dde0, Size=224, Default__ship1_C Function /Game/FlyingBP/Blueprints/ship1.ship1_C:ExecuteUbergraph_ship1
+[2018.08.04-17.30.11:926][400]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.04-17.30.11:941][400]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/FlyingBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.08.04-17.30.11:941][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.04-17.30.11:942][400]PIE: New page: PIE session: Level1 (Aug 4, 2018, 7:30:11 AM)
+[2018.08.04-17.30.11:942][400]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_Level1
+[2018.08.04-17.30.11:955][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012860s)
+[2018.08.04-17.30.11:955][400]LogAIModule: Creating AISystem for world Level1
+[2018.08.04-17.30.11:956][400]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2018.08.04-17.30.11:956][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/Level1.Level1 to /Game/FlyingBP/Maps/UEDPIE_0_Level1.Level1 (0.014052s)
+[2018.08.04-17.30.11:971][400]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd7539a600, Size=464
+[2018.08.04-17.30.11:996][400]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.04-17.30.12:006][400]LogInit: FAudioDevice initialized.
+[2018.08.04-17.30.12:033][400]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.08.04-17.30.12:035][400]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.08.04-12.30.12
+[2018.08.04-17.30.12:036][400]LogWorld: Bringing up level for play took: 0.002412
+[2018.08.04-17.30.12:037][400]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_Level1 -0.652
+[2018.08.04-17.30.12:037][400]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/FlyingBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.08.04-17.30.27:946][304]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/FlyingBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.08.04-17.30.27:980][304]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/FlyingBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.08.04-17.30.32:865][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.04-17.31.30:337][966]LogLinker: Can't find file '/Game/Blueprints/BP_Plane'
+[2018.08.04-17.31.30:338][966]LogLinker: Can't find file '/Game/Blueprints/BP_Plane'
+[2018.08.04-17.31.30:351][966]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:MacroGraph: unresolved reference to 'EdGraph'"GetSteering"',GraphBlueprint=Blueprint'"/Game/Blueprints/BP_Plane.BP_Plane"',GraphGuid=7B976D5344518D103F3D628F5FE60C56)'
+[2018.08.04-17.31.30:351][966]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:GraphBlueprint: unresolved reference to 'Blueprint'"/Game/Blueprints/BP_Plane.BP_Plane"',GraphGuid=7B976D5344518D103F3D628F5FE60C56)'
+[2018.08.04-17.31.30:355][966]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/BP_Plane.BP_Plane_C"''
+[2018.08.04-17.31.30:356][966]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/BP_Plane.BP_Plane_C"''
+[2018.08.04-17.31.30:357][966]LogProperty: Warning: WeakObjectProperty /Script/Engine.EdGraphPinType:PinSubCategoryObject: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/BP_Plane.BP_Plane_C"',ContainerType=Array)'
+[2018.08.04-17.31.30:362][966]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/BP_Plane.BP_Plane_C"',MemberName="Current forward speed",MemberGuid=4CFAE9A243F6A9372D8DF78029DDCD68)'
+[2018.08.04-17.31.30:362][966]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/BP_Plane.BP_Plane_C"',MemberName="Current yaw speed",MemberGuid=C280D68E45DDCFE4245C8DBEE18C7C77)'
+[2018.08.04-17.31.30:363][966]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/BP_Plane.BP_Plane_C"',MemberName="Current pitch speed",MemberGuid=F961C723456A4DDFAEDB40A75D8F173B)'
+[2018.08.04-17.31.30:368][966]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/BP_Plane.BP_Plane_C"',MemberName="Current forward speed",MemberGuid=4CFAE9A243F6A9372D8DF78029DDCD68)'
+[2018.08.04-17.31.30:368][966]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/BP_Plane.BP_Plane_C"',MemberName="Current yaw speed",MemberGuid=C280D68E45DDCFE4245C8DBEE18C7C77)'
+[2018.08.04-17.31.30:369][966]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/BP_Plane.BP_Plane_C"',MemberName="Current pitch speed",MemberGuid=F961C723456A4DDFAEDB40A75D8F173B)'
+[2018.08.04-17.31.30:371][966]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/BP_Plane.BP_Plane_C"',MemberName="Current forward speed",MemberGuid=4CFAE9A243F6A9372D8DF78029DDCD68)'
+[2018.08.04-17.31.30:372][966]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/BP_Plane.BP_Plane_C"',MemberName="Current yaw speed",MemberGuid=C280D68E45DDCFE4245C8DBEE18C7C77)'
+[2018.08.04-17.31.30:372][966]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/BP_Plane.BP_Plane_C"',MemberName="Current pitch speed",MemberGuid=F961C723456A4DDFAEDB40A75D8F173B)'
+[2018.08.04-17.31.30:461][966]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Composite:BoundGraph: unresolved reference to 'EdGraph'"Misc. Work"''
+[2018.08.04-17.31.30:476][966]LogBlueprint: Warning: [ship1] 'MaxSpeed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:476][966]LogBlueprint: Warning: [ship1] 'Current forward speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:476][966]LogBlueprint: Warning: [ship1] 'Current forward speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:476][966]LogBlueprint: Warning: [ship1] 'Current forward speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:476][966]LogBlueprint: Warning: [ship1] 'Min speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:476][966]LogBlueprint: Warning: [ship1] 'Current forward speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:476][966]LogBlueprint: Warning: [ship1] 'Turn speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:476][966]LogBlueprint: Warning: [ship1] 'Current yaw speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:477][966]LogBlueprint: Warning: [ship1] 'Current yaw speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:477][966]LogBlueprint: Warning: [ship1] 'Turn speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:477][966]LogBlueprint: Warning: [ship1] 'Current yaw speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:477][966]LogBlueprint: Warning: [ship1] 'Current pitch speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:477][966]LogBlueprint: Warning: [ship1] 'Current pitch speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:477][966]LogBlueprint: Warning: [ship1] 'Current pitch speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:477][966]LogBlueprint: Warning: [ship1] 'Current yaw speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:477][966]LogBlueprint: Warning: [ship1] 'Acceleration' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:477][966]LogBlueprint: Warning: [ship1] 'Current pitch speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:477][966]LogBlueprint: Warning: [ship1] 'Current yaw speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:477][966]LogBlueprint: Warning: [ship1] 'Current roll speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:477][966]LogBlueprint: Warning: [ship1] 'Current roll speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:478][966]LogBlueprint: Warning: [ship1] 'Current roll speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:478][966]LogBlueprint: Warning: [ship1] 'Current roll speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:478][966]LogBlueprint: Warning: [ship1] 'Current yaw speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:478][966]LogBlueprint: Warning: [ship1] 'Current forward speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:478][966]LogBlueprint: Warning: [ship1] 'Current forward speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:478][966]LogBlueprint: Warning: [ship1] 'DebugMode' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:478][966]LogBlueprint: Warning: [ship1] 'DebugMode' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:478][966]LogBlueprint: Warning: [ship1] 'DebugMode' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:478][966]LogBlueprint: Warning: [ship1] 'DebugMode' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:480][966]LogBlueprint: Warning: [ship1] 'Neighbors' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:480][966]LogBlueprint: Warning: [ship1] 'Neighbors' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:480][966]LogBlueprint: Warning: [ship1] 'Neigbor' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:480][966]LogBlueprint: Warning: [ship1] 'Neigbor' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:480][966]LogBlueprint: Warning: [ship1] 'Neigbor' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:480][966]LogBlueprint: Warning: [ship1] 'AvoidVector' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:480][966]LogBlueprint: Warning: [ship1] 'AvoidVector' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:480][966]LogBlueprint: Warning: [ship1] 'AvoidVector' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:481][966]LogBlueprint: Warning: [ship1] 'Current forward speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:481][966]LogBlueprint: Warning: [ship1] 'Current yaw speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:481][966]LogBlueprint: Warning: [ship1] 'Current pitch speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:481][966]LogBlueprint: Warning: [ship1] 'AlignmentVector' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:481][966]LogBlueprint: Warning: [ship1] 'AlignmentVector' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:481][966]LogBlueprint: Warning: [ship1] 'AlignmentVector' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:481][966]LogBlueprint: Warning: [ship1] 'AlignmentVector' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:481][966]LogBlueprint: Warning: [ship1] 'AlignmentVector' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:481][966]LogBlueprint: Warning: [ship1] 'Current forward speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:481][966]LogBlueprint: Warning: [ship1] 'Current yaw speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:481][966]LogBlueprint: Warning: [ship1] 'Current pitch speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:481][966]LogBlueprint: Warning: [ship1] 'Current forward speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:481][966]LogBlueprint: Warning: [ship1] 'Current forward speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:481][966]LogBlueprint: Warning: [ship1] 'Current yaw speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:481][966]LogBlueprint: Warning: [ship1] 'Current yaw speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:481][966]LogBlueprint: Warning: [ship1] 'Current pitch speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:481][966]LogBlueprint: Warning: [ship1] 'Current pitch speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:481][966]LogBlueprint: Warning: [ship1] 'Current forward speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:482][966]LogBlueprint: Warning: [ship1] 'Current yaw speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:482][966]LogBlueprint: Warning: [ship1] 'Current pitch speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:482][966]LogBlueprint: Warning: [ship1] 'CohesionVector' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:482][966]LogBlueprint: Warning: [ship1] 'CohesionVector' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:482][966]LogBlueprint: Warning: [ship1] 'CohesionVector' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:482][966]LogBlueprint: Warning: [ship1] 'Neigbor' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:482][966]LogBlueprint: Warning: [ship1] 'Neigbor' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:482][966]LogBlueprint: Warning: [ship1] 'Current forward speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:482][966]LogBlueprint: Warning: [ship1] 'Current yaw speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:482][966]LogBlueprint: Warning: [ship1] 'Current pitch speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:482][966]LogBlueprint: Warning: [ship1] 'NeighborAvoidance' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:482][966]LogBlueprint: Warning: [ship1] 'NeighborAvoidance' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:482][966]LogBlueprint: Warning: [ship1] 'TraceDistance' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:482][966]LogBlueprint: Warning: [ship1] 'TraceDistance' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:483][966]LogBlueprint: Warning: [ship1] 'SwitchDirection' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:483][966]LogBlueprint: Warning: [ship1] 'DirectionVector' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:483][966]LogBlueprint: Warning: [ship1] 'DirectionVector' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:483][966]LogBlueprint: Warning: [ship1] 'DirectionVector' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:483][966]LogBlueprint: Warning: [ship1] 'DistanceToAvoid' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:483][966]LogBlueprint: Warning: [ship1] 'DirectionVector' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:483][966]LogBlueprint: Warning: [ship1] 'DirectionVector' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:483][966]LogBlueprint: Warning: [ship1] 'DirectionVector' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:484][966]LogBlueprint: Warning: [ship1] 'AvoidVector' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:484][966]LogBlueprint: Warning: [ship1] 'AvoidVector' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:484][966]LogBlueprint: Warning: [ship1] 'AvoidVector' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:484][966]LogBlueprint: Warning: [ship1] 'DistanceToAvoid' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:484][966]LogBlueprint: Warning: [ship1] 'SwitchDirection' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:484][966]LogBlueprint: Warning: [ship1] 'SwitchDirection' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:484][966]LogBlueprint: Warning: [ship1] 'SwitchDirection' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:484][966]LogBlueprint: Warning: [ship1] 'SwitchDirection' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:484][966]LogBlueprint: Warning: [ship1] 'DirectionVector' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:484][966]LogBlueprint: Warning: [ship1] 'TraceDistance' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:484][966]LogBlueprint: Warning: [ship1] 'DistanceToGoal' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:485][966]LogBlueprint: Warning: [ship1] 'DistanceToGoal' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:485][966]LogBlueprint: Warning: [ship1] 'DebugMode' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:485][966]LogBlueprint: Warning: [ship1] 'DebugMode' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:485][966]LogBlueprint: Warning: [ship1] 'SwitchDirection' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:485][966]LogBlueprint: Warning: [ship1] 'SwitchDirection' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:485][966]LogBlueprint: Warning: [ship1] 'DistanceToAvoid' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:485][966]LogBlueprint: Warning: [ship1] 'DistanceToGoal' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:486][966]LogBlueprint: Warning: [ship1] 'RotateAround' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:486][966]LogBlueprint: Warning: [ship1] 'RotateAround' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:486][966]LogBlueprint: Warning: [ship1] 'RotateAround' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:486][966]LogBlueprint: Warning: [ship1] 'RotateAround' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:486][966]LogBlueprint: Warning: [ship1] 'Current forward speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:486][966]LogBlueprint: Warning: [ship1] 'Min speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:486][966]LogBlueprint: Warning: [ship1] 'MaxSpeed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:486][966]LogBlueprint: Warning: [ship1] 'Targets' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:486][966]LogBlueprint: Warning: [ship1] 'ObjectAvoidance' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:486][966]LogBlueprint: Warning: [ship1] 'ObjectAvoidance' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:487][966]LogBlueprint: Warning: [ship1] 'AvoidObject' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:487][966]LogBlueprint: Warning: [ship1] 'AvoidObject' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:487][966]LogBlueprint: Warning: [ship1] 'AvoidObject' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:487][966]LogBlueprint: Warning: [ship1] 'Lock1' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:487][966]LogBlueprint: Warning: [ship1] 'Lock1' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:487][966]LogBlueprint: Warning: [ship1] 'Lock2' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:487][966]LogBlueprint: Warning: [ship1] 'Lock2' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:487][966]LogBlueprint: Warning: [ship1] 'Lock3' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:487][966]LogBlueprint: Warning: [ship1] 'Lock3' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:487][966]LogBlueprint: Warning: [ship1] 'TracePerDirection' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:487][966]LogBlueprint: Warning: [ship1] 'TraceDistance' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:488][966]LogBlueprint: Warning: [ship1] 'RandomOffset' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:488][966]LogBlueprint: Warning: [ship1] 'AvoidVector' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:488][966]LogBlueprint: Warning: [ship1] 'AvoidVector' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:488][966]LogBlueprint: Warning: [ship1] 'Lock2' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:488][966]LogBlueprint: Warning: [ship1] 'Lock3' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:488][966]LogBlueprint: Warning: [ship1] 'Var2' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:488][966]LogBlueprint: Warning: [ship1] 'Var3' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:488][966]LogBlueprint: Warning: [ship1] 'TracePerDirection' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:488][966]LogBlueprint: Warning: [ship1] 'TracePerDirection' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:488][966]LogBlueprint: Warning: [ship1] 'Current forward speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:488][966]LogBlueprint: Warning: [ship1] 'Min speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:488][966]LogBlueprint: Warning: [ship1] 'MaxSpeed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:489][966]LogBlueprint: Warning: [ship1] 'Lock1' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:489][966]LogBlueprint: Warning: [ship1] 'Var1' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:489][966]LogBlueprint: Warning: [ship1] 'Var1' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:489][966]LogBlueprint: Warning: [ship1] 'Var1' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:489][966]LogBlueprint: Warning: [ship1] 'Var2' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:489][966]LogBlueprint: Warning: [ship1] 'Var2' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:489][966]LogBlueprint: Warning: [ship1] 'Var3' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:489][966]LogBlueprint: Warning: [ship1] 'Var3' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:490][966]LogBlueprint: Warning: [ship1] 'Lock1' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:490][966]LogBlueprint: Warning: [ship1] 'Lock2' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:490][966]LogBlueprint: Warning: [ship1] 'Lock3' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:490][966]LogBlueprint: Warning: [ship1] 'Lock1' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:490][966]LogBlueprint: Warning: [ship1] 'Lock1' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:490][966]LogBlueprint: Warning: [ship1] 'Lock2' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:490][966]LogBlueprint: Warning: [ship1] 'Lock2' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:490][966]LogBlueprint: Warning: [ship1] 'Lock3' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:490][966]LogBlueprint: Warning: [ship1] 'Lock3' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:490][966]LogBlueprint: Warning: [ship1] 'DebugMode' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:490][966]LogBlueprint: Warning: [ship1] 'CollisionDistance' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:490][966]LogBlueprint: Warning: [ship1] 'CollisionActor' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:490][966]LogBlueprint: Warning: [ship1] 'CollisionActor' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:491][966]LogBlueprint: Warning: [ship1] 'TopLeft' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:491][966]LogBlueprint: Warning: [ship1] 'TopRight' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:491][966]LogBlueprint: Warning: [ship1] 'BottomRight' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:491][966]LogBlueprint: Warning: [ship1] 'BottomLeft' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:491][966]LogBlueprint: Warning: [ship1] 'Var1' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:491][966]LogBlueprint: Warning: [ship1] 'Var2' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:491][966]LogBlueprint: Warning: [ship1] 'Var3' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:491][966]LogBlueprint: Warning: [ship1] 'AvoidVector' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:491][966]LogBlueprint: Warning: [ship1] 'AvoidVector' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:491][966]LogBlueprint: Warning: [ship1] 'AvoidVector' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:491][966]LogBlueprint: Warning: [ship1] 'CollisionDistance' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:491][966]LogBlueprint: Warning: [ship1] 'CollisionActor' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:492][966]LogBlueprint: Warning: [ship1] 'TraceDistance' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:492][966]LogBlueprint: Warning: [ship1] 'Lock1' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:492][966]LogBlueprint: Warning: [ship1] 'Lock2' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:492][966]LogBlueprint: Warning: [ship1] 'Lock3' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:492][966]LogBlueprint: Warning: [ship1] 'Camera' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:492][966]LogBlueprint: Warning: [ship1] 'SceneOffset' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:492][966]LogBlueprint: Warning: [ship1] 'Current yaw speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:492][966]LogBlueprint: Warning: [ship1] 'Current pitch speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:492][966]LogBlueprint: Warning: [ship1] 'SceneOffset' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:492][966]LogBlueprint: Warning: [ship1] 'SceneOffset' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:493][966]LogBlueprint: Warning: [ship1] 'CamLocation' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:493][966]LogBlueprint: Warning: [ship1] 'CamLocation' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:493][966]LogBlueprint: Warning: [ship1] 'CamLocation' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:493][966]LogBlueprint: Warning: [ship1] 'Current forward speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:493][966]LogBlueprint: Warning: [ship1] 'Current yaw speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:493][966]LogBlueprint: Warning: [ship1] 'Current pitch speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:493][966]LogBlueprint: Warning: [ship1] 'SpringArm' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:493][966]LogBlueprint: Warning: [ship1] 'Current roll speed' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:493][966]LogBlueprint: Warning: [ship1] 'Targets' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:494][966]LogBlueprint: Warning: [ship1] 'TraceDistance' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:494][966]LogBlueprint: Warning: [ship1] 'Camera' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.31.30:508][966]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd8479a218, Size=4, Default__SKEL_ship1_C Function /Game/FlyingBP/Blueprints/ship1.SKEL_ship1_C:ExecuteUbergraph_ship1
+[2018.08.04-17.32.23:507][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Maps/Level1" FILE="../../../../../../GitHub/SpaceRanger/Saved/Autosaves/Game/FlyingBP/Maps/Level1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.08.04-17.32.23:524][ 41]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd42b188e0, Size=32
+[2018.08.04-17.32.23:524][ 41]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dda295fa00, Size=32, Default__Level1_C Function /Engine/Transient.REINST_Level1_C_44:ExecuteUbergraph_Level1
+[2018.08.04-17.32.23:525][ 41]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dda295f600, Size=32, Default__Level1_C Function /Game/FlyingBP/Maps/Level1.Level1_C:ExecuteUbergraph_Level1
+[2018.08.04-17.32.23:671][ 41]LogSavePackage: Save=149.92ms
+[2018.08.04-17.32.23:671][ 41]LogSavePackage: Moving '../../../../../../GitHub/SpaceRanger/Saved/Level1_Auto1AB00947345A969EB07E0A09E1B054C7E.tmp' to '../../../../../../GitHub/SpaceRanger/Saved/Autosaves/Game/FlyingBP/Maps/Level1_Auto1.umap'
+[2018.08.04-17.32.23:673][ 41]LogSavePackage: Display: Finished SavePackage ../../../../../../GitHub/SpaceRanger/Saved/Autosaves/Game/FlyingBP/Maps/Level1_Auto1.umap
+[2018.08.04-17.32.23:678][ 41]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FlyingBP/Maps/Level1' took 0.191
+[2018.08.04-17.32.23:678][ 41]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.191
+[2018.08.04-17.32.23:680][ 41]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FlyingBP/Blueprints/ship1] ([1] browsable assets)...
+[2018.08.04-17.32.23:689][ 41]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FlyingBP/Blueprints/ship1.ship1]
+[2018.08.04-17.32.23:689][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/FlyingBP/Blueprints/ship1]
+[2018.08.04-17.32.23:689][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Blueprints/ship1" FILE="../../../../../../GitHub/SpaceRanger/Saved/Autosaves/Game/FlyingBP/Blueprints/ship1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.08.04-17.32.24:042][ 41]LogSavePackage: Save=342.20ms
+[2018.08.04-17.32.24:042][ 41]LogSavePackage: Moving '../../../../../../GitHub/SpaceRanger/Saved/ship1_Auto10DB73D0D405F8743E8ADBC8393EBFE7A.tmp' to '../../../../../../GitHub/SpaceRanger/Saved/Autosaves/Game/FlyingBP/Blueprints/ship1_Auto1.uasset'
+[2018.08.04-17.32.24:043][ 41]LogSavePackage: Display: Finished SavePackage ../../../../../../GitHub/SpaceRanger/Saved/Autosaves/Game/FlyingBP/Blueprints/ship1_Auto1.uasset
+[2018.08.04-17.32.24:043][ 41]LogFileHelpers: Auto-saving content packages took 0.365
+[2018.08.04-17.32.37:887][867]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd8479a218, Size=4
+[2018.08.04-17.32.37:887][867]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd8479a218, Size=4, Default__SKEL_ship1_C Function /Engine/Transient.REINST_SKEL_ship1_C_46:ExecuteUbergraph_ship1
+[2018.08.04-17.32.37:900][867]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd73afee00, Size=4, Default__SKEL_ship1_C Function /Game/FlyingBP/Blueprints/ship1.SKEL_ship1_C:ExecuteUbergraph_ship1
+[2018.08.04-17.32.42:668][432]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd73afee00, Size=4
+[2018.08.04-17.32.42:668][432]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd84434a90, Size=4, Default__SKEL_ship1_C Function /Engine/Transient.REINST_SKEL_ship1_C_48:ExecuteUbergraph_ship1
+[2018.08.04-17.32.42:681][432]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd3d041250, Size=4, Default__SKEL_ship1_C Function /Game/FlyingBP/Blueprints/ship1.SKEL_ship1_C:ExecuteUbergraph_ship1
+[2018.08.04-17.32.53:545][262]LogBlueprint: Warning: [ship1] 'Targets' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.32.53:545][262]LogBlueprint: Warning: [ship1] 'AvoidVector' variable not found. Base class was probably changed. /Game/FlyingBP/Blueprints/ship1.ship1
+[2018.08.04-17.33.20:726][500]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd3d041250, Size=4
+[2018.08.04-17.33.20:726][500]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dda09f71a0, Size=4, Default__SKEL_ship1_C Function /Engine/Transient.REINST_SKEL_ship1_C_50:ExecuteUbergraph_ship1
+[2018.08.04-17.33.20:739][500]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dda09f5c68, Size=4, Default__SKEL_ship1_C Function /Game/FlyingBP/Blueprints/ship1.SKEL_ship1_C:ExecuteUbergraph_ship1
+[2018.08.04-17.33.26:710][204]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dda09f5c68, Size=4
+[2018.08.04-17.33.26:710][204]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd848be708, Size=4, Default__SKEL_ship1_C Function /Engine/Transient.REINST_SKEL_ship1_C_52:ExecuteUbergraph_ship1
+[2018.08.04-17.33.26:723][204]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd848bf6d8, Size=4, Default__SKEL_ship1_C Function /Game/FlyingBP/Blueprints/ship1.SKEL_ship1_C:ExecuteUbergraph_ship1
+[2018.08.04-17.33.28:417][401]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd848bf6d8, Size=4
+[2018.08.04-17.33.28:417][401]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dda09f4a38, Size=4, Default__SKEL_ship1_C Function /Engine/Transient.REINST_SKEL_ship1_C_54:ExecuteUbergraph_ship1
+[2018.08.04-17.33.28:429][401]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd8456d030, Size=4, Default__SKEL_ship1_C Function /Game/FlyingBP/Blueprints/ship1.SKEL_ship1_C:ExecuteUbergraph_ship1
+[2018.08.04-17.33.33:919][ 51]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd8456d030, Size=4
+[2018.08.04-17.33.33:919][ 51]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd848be718, Size=4, Default__SKEL_ship1_C Function /Engine/Transient.REINST_SKEL_ship1_C_56:ExecuteUbergraph_ship1
+[2018.08.04-17.33.33:932][ 51]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd752ee968, Size=4, Default__SKEL_ship1_C Function /Game/FlyingBP/Blueprints/ship1.SKEL_ship1_C:ExecuteUbergraph_ship1
+[2018.08.04-17.34.26:640][135]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd752ee968, Size=4
+[2018.08.04-17.34.26:640][135]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd8456c698, Size=4, Default__SKEL_ship1_C Function /Engine/Transient.REINST_SKEL_ship1_C_58:ExecuteUbergraph_ship1
+[2018.08.04-17.34.26:652][135]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd0b34c9b8, Size=4, Default__SKEL_ship1_C Function /Game/FlyingBP/Blueprints/ship1.SKEL_ship1_C:ExecuteUbergraph_ship1
+[2018.08.04-17.34.32:073][771]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.08.04-17.35.03:559][464]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd0b34c9b8, Size=4
+[2018.08.04-17.35.03:559][464]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd8456f518, Size=4, Default__SKEL_ship1_C Function /Engine/Transient.REINST_SKEL_ship1_C_60:ExecuteUbergraph_ship1
+[2018.08.04-17.35.03:573][464]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd3d040208, Size=4, Default__SKEL_ship1_C Function /Game/FlyingBP/Blueprints/ship1.SKEL_ship1_C:ExecuteUbergraph_ship1
+[2018.08.04-17.35.51:542][496]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd3d040208, Size=4
+[2018.08.04-17.35.51:542][496]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd84436b40, Size=4, Default__SKEL_ship1_C Function /Engine/Transient.REINST_SKEL_ship1_C_62:ExecuteUbergraph_ship1
+[2018.08.04-17.35.51:554][496]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd842cf310, Size=4, Default__SKEL_ship1_C Function /Game/FlyingBP/Blueprints/ship1.SKEL_ship1_C:ExecuteUbergraph_ship1
+[2018.08.04-17.40.39:242][931]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.04-17.41.48:832][548]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd842cf310, Size=4
+[2018.08.04-17.41.48:832][548]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd752ef450, Size=4, Default__SKEL_ship1_C Function /Engine/Transient.REINST_SKEL_ship1_C_64:ExecuteUbergraph_ship1
+[2018.08.04-17.41.48:845][548]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dda6014368, Size=4, Default__SKEL_ship1_C Function /Game/FlyingBP/Blueprints/ship1.SKEL_ship1_C:ExecuteUbergraph_ship1
+[2018.08.04-17.41.52:032][891]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dda6014368, Size=4
+[2018.08.04-17.41.52:032][891]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd842ce648, Size=4, Default__SKEL_ship1_C Function /Engine/Transient.REINST_SKEL_ship1_C_66:ExecuteUbergraph_ship1
+[2018.08.04-17.41.52:045][891]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dda638f240, Size=4, Default__SKEL_ship1_C Function /Game/FlyingBP/Blueprints/ship1.SKEL_ship1_C:ExecuteUbergraph_ship1
+[2018.08.04-17.42.01:968][776]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dda638f240, Size=4
+[2018.08.04-17.42.01:968][776]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dda638f240, Size=4, Default__SKEL_ship1_C Function /Engine/Transient.REINST_SKEL_ship1_C_68:ExecuteUbergraph_ship1
+[2018.08.04-17.42.02:008][776]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dda6016ad0, Size=4, Default__SKEL_ship1_C Function /Game/FlyingBP/Blueprints/ship1.SKEL_ship1_C:ExecuteUbergraph_ship1
+[2018.08.04-17.42.04:110][  5]BlueprintLog: New page: Compile ship1
+[2018.08.04-17.42.04:196][  5]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dda6016ad0, Size=4
+[2018.08.04-17.42.04:196][  5]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dda638d4e8, Size=4, Default__SKEL_ship1_C Function /Engine/Transient.REINST_SKEL_ship1_C_71:ExecuteUbergraph_ship1
+[2018.08.04-17.42.04:276][  5]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd17f9dde0, Size=224
+[2018.08.04-17.42.04:276][  5]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd17f9dde0, Size=224, Default__ship1_C Function /Engine/Transient.REINST_ship1_C_74:ExecuteUbergraph_ship1
+[2018.08.04-17.42.04:964][  5]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.674 s
+[2018.08.04-17.42.04:964][  5]LogOutputDevice: Error: === Handled ensure: ===
+[2018.08.04-17.42.04:964][  5]LogOutputDevice: Error: 
+[2018.08.04-17.42.04:964][  5]LogOutputDevice: Error: Ensure condition failed: MyNode->GetOuter() == ToPin->GetOwningNode()->GetOuter() [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 451]
+[2018.08.04-17.42.04:964][  5]LogOutputDevice: Error: UEdGraphPin::MakeLinkTo Pin 'execute' on node 'None - Tunnel Input Site' has a different outer than pin 'execute2' on node 'None - Tunnel Entry Site'
+[2018.08.04-17.42.04:964][  5]LogOutputDevice: Error: Stack: 
+[2018.08.04-17.42.04:964][  5]LogOutputDevice: Error: [Callstack] 0x00000000C2E4B706 UE4Editor-Core.dll!UnknownFunction []
+[2018.08.04-17.42.04:964][  5]LogOutputDevice: Error: [Callstack] 0x00000000C2BAAE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.08.04-17.42.04:964][  5]LogOutputDevice: Error: [Callstack] 0x00000000C2BBECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.08.04-17.42.04:964][  5]LogOutputDevice: Error: [Callstack] 0x00000000B7C94F8A UE4Editor-Engine.dll!UnknownFunction []
+[2018.08.04-17.42.04:964][  5]LogOutputDevice: Error: [Callstack] 0x00000000C018A70D UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.08.04-17.42.04:964][  5]LogOutputDevice: Error: [Callstack] 0x00000000C0189D2C UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.08.04-17.42.04:965][  5]LogOutputDevice: Error: [Callstack] 0x00000000CA620CE2 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.08.04-17.42.04:965][  5]LogOutputDevice: Error: [Callstack] 0x00000000CA620FDA UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.08.04-17.42.04:965][  5]LogOutputDevice: Error: [Callstack] 0x00000000CA6085BF UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.08.04-17.42.04:965][  5]LogOutputDevice: Error: [Callstack] 0x00000000CA60CF89 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.08.04-17.42.04:965][  5]LogOutputDevice: Error: [Callstack] 0x00000000CA5FA0F2 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.08.04-17.42.04:965][  5]LogOutputDevice: Error: [Callstack] 0x00000000BDD4F4BF UE4Editor-Kismet.dll!UnknownFunction []
+[2018.08.04-17.42.04:965][  5]LogOutputDevice: Error: [Callstack] 0x00000000BDCF0629 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.08.04-17.42.04:965][  5]LogOutputDevice: Error: [Callstack] 0x00000000BEFD72F1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.04-17.42.04:965][  5]LogOutputDevice: Error: [Callstack] 0x00000000BDCF0043 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.08.04-17.42.04:965][  5]LogOutputDevice: Error: [Callstack] 0x00000000BDD3FE41 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.08.04-17.42.04:965][  5]LogOutputDevice: Error: [Callstack] 0x00000000BDD44BA6 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.08.04-17.42.04:965][  5]LogOutputDevice: Error: [Callstack] 0x00000000C51F687F UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.04-17.42.04:965][  5]LogOutputDevice: Error: [Callstack] 0x00000000C52EF8B6 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.04-17.42.04:965][  5]LogOutputDevice: Error: [Callstack] 0x00000000C52546B2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.04-17.42.04:965][  5]LogOutputDevice: Error: [Callstack] 0x00000000C5255BD9 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.04-17.42.04:965][  5]LogOutputDevice: Error: [Callstack] 0x00000000C52D12F5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.04-17.42.04:965][  5]LogOutputDevice: Error: [Callstack] 0x00000000C538B7F7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.04-17.42.04:965][  5]LogOutputDevice: Error: [Callstack] 0x00000000C53B19E8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.04-17.42.04:965][  5]LogOutputDevice: Error: [Callstack] 0x00000000C51D485C UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.04-17.42.04:965][  5]LogOutputDevice: Error: [Callstack] 0x00000000C51A7D75 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.04-17.42.04:965][  5]LogOutputDevice: Error: [Callstack] 0x00000000C523F617 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.04-17.42.04:965][  5]LogOutputDevice: Error: [Callstack] 0x00000000C5227D0D UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.04-17.42.04:965][  5]LogOutputDevice: Error: [Callstack] 0x00000000C521B3E2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.04-17.42.04:965][  5]LogOutputDevice: Error: [Callstack] 0x00000000E0CBE69B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.04-17.42.04:965][  5]LogOutputDevice: Error: [Callstack] 0x00000000E0CB1B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.04-17.42.04:966][  5]LogOutputDevice: Error: [Callstack] 0x00000000E0CC052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.04-17.42.04:966][  5]LogOutputDevice: Error: [Callstack] 0x00000000E0CAD679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.04-17.42.04:966][  5]LogOutputDevice: Error: [Callstack] 0x00000000FE026CC1 USER32.dll!UnknownFunction []
+[2018.08.04-17.42.04:966][  5]LogOutputDevice: Error: [Callstack] 0x00000000FE026693 USER32.dll!UnknownFunction []
+[2018.08.04-17.42.04:966][  5]LogOutputDevice: Error: [Callstack] 0x00000000E0CC1666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.04-17.42.04:966][  5]LogOutputDevice: Error: [Callstack] 0x0000000003465475 UE4Editor.exe!UnknownFunction []
+[2018.08.04-17.42.04:966][  5]LogOutputDevice: Error: [Callstack] 0x0000000003476BD0 UE4Editor.exe!UnknownFunction []
+[2018.08.04-17.42.04:966][  5]LogOutputDevice: Error: [Callstack] 0x0000000003476C4A UE4Editor.exe!UnknownFunction []
+[2018.08.04-17.42.04:966][  5]LogOutputDevice: Error: [Callstack] 0x0000000003484177 UE4Editor.exe!UnknownFunction []
+[2018.08.04-17.42.04:966][  5]LogOutputDevice: Error: [Callstack] 0x0000000003485B87 UE4Editor.exe!UnknownFunction []
+[2018.08.04-17.42.04:966][  5]LogOutputDevice: Error: [Callstack] 0x00000000FDE73034 KERNEL32.DLL!UnknownFunction []
+[2018.08.04-17.42.04:966][  5]LogOutputDevice: Error: [Callstack] 0x00000000FE521431 ntdll.dll!UnknownFunction []
+[2018.08.04-17.42.04:966][  5]LogOutputDevice: Error: 
+[2018.08.04-17.42.04:977][  5]LogStats:                SubmitErrorReport -  0.000 s
